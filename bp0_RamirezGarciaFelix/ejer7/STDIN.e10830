@@ -1,0 +1,7 @@
+./SumaVectores.sh: línea 19: 16034 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: línea 19: 16036 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: línea 19: 16039 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: línea 19: 16043 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: línea 19: 16045 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: línea 19: 16047 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: línea 19: 16049 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectoresC $N

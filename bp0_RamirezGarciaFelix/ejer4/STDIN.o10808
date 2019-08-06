@@ -1,0 +1,23 @@
+Id. usuario del trabajo: A3estudiante20
+Id.  del trabajo: 10808.atcgrid
+Nombre  del trabajo especificado por usuario: STDIN
+Directorio en el que se ha ejecutado qsub: /home/A3estudiante20
+Directorio de trabajo: /home/A3estudiante20
+Cola: ac
+Nodo que ejecuta qsub: atcgrid
+Nodos asignados al trabajo:
+atcgrid2
+Nº de threads inicial: 12
+Directorio de trabajo: /home/A3estudiante20
+
+1.Para 12 threads:
+(0: !!!Hello)(1: !!!Hello)(10: !!!Hello)(3: !!!Hello)(5: !!!Hello)(2: !!!Hello)(8: !!!Hello)(11: !!!Hello)(6: !!!Hello)(4: !!!Hello)(7: !!!Hello)(9: !!!Hello)(0: world!!!)
+
+1.Para 6 threads:
+(0: !!!Hello)(1: !!!Hello)(3: !!!Hello)(2: !!!Hello)(4: !!!Hello)(5: !!!Hello)(0: world!!!)
+
+1.Para 3 threads:
+(1: !!!Hello)(0: !!!Hello)(2: !!!Hello)(0: world!!!)
+
+1.Para 1 threads:
+(0: !!!Hello)(0: world!!!)

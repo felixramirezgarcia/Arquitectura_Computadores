@@ -1,0 +1,63 @@
+secuencial
+100 elementos
+Tiempo=0.002035586
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=34.084211285
+	(0,0)=6000
+	(N-1, N-1)=6000
+2 cores
+100 elementos
+Tiempo=0.001124368
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=11.293998479
+	(0,0)=6000
+	(N-1, N-1)=6000
+4 cores
+100 elementos
+Tiempo=0.000413716
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=7.744093488
+	(0,0)=6000
+	(N-1, N-1)=6000
+6 cores
+100 elementos
+Tiempo=0.000285647
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=6.089357064
+	(0,0)=6000
+	(N-1, N-1)=6000
+8 cores
+100 elementos
+Tiempo=0.000227823
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=4.336290691
+	(0,0)=6000
+	(N-1, N-1)=6000
+10 cores
+100 elementos
+Tiempo=0.000193739
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=3.844367677
+	(0,0)=6000
+	(N-1, N-1)=6000
+12 cores
+100 elementos
+Tiempo=0.000172742
+	(0,0)=400
+	(N-1, N-1)=400
+1500 elementos
+Tiempo=3.341043423
+	(0,0)=6000
+	(N-1, N-1)=6000

@@ -1,0 +1,19 @@
+#!/bin/bash
+echo 'Modelo a 1k'
+./pmv-OpenMP-a 1000
+echo 'Modelo b 1k'
+./pmv-OpenMP-b 1000
+echo 'Modelo reduction 1k'
+./pmv-OpenMP-reduction 1000
+echo 'Modelo a 7.5k'
+./pmv-OpenMP-a 7500
+echo 'Modelo b 7.5k'
+./pmv-OpenMP-b 7500
+echo 'Modelo reduction 7.5k'
+./pmv-OpenMP-reduction 7500
+echo 'Modelo a 15k'
+./pmv-OpenMP-a 15000 
+echo 'Modelo b 15k'
+./pmv-OpenMP-b 15000 
+echo 'Modelo reduction 15k'
+./pmv-OpenMP-reduction 15000 

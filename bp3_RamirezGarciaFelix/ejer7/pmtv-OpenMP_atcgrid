@@ -1,0 +1,37 @@
+#!/bin/bash
+
+export OMP_SCHEDULE="static"
+echo "schedule(static) chunk(defecto)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="static, 1"
+echo "schedule(static) chunk(1)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="static, 64"
+echo "schedule(static) chunk(64)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="dynamic"
+echo "schedule(dynamic) chunk(defecto)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="dynamic, 1"
+echo "schedule(dynamic) chunk(1)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="dynamic, 64"
+echo "schedule(dynamic) chunk(64)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="guided"
+echo "schedule(guided) chunk(defecto)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="guided, 1"
+echo "schedule(guided) chunk(1)"
+./pmtv-OpenMP 15360
+
+export OMP_SCHEDULE="guided, 64"
+echo "schedule(guided) chunk(64)"
+./pmtv-OpenMP 15360

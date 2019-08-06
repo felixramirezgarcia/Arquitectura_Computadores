@@ -1,0 +1,18 @@
+schedule(static) chunk(defecto)
+Tiempo= 0.039028727	Primera=61440	Ultima=4
+schedule(static) chunk(1)
+Tiempo= 0.038059705	Primera=61440	Ultima=4
+schedule(static) chunk(64)
+Tiempo= 0.035381175	Primera=61440	Ultima=4
+schedule(dynamic) chunk(defecto)
+Tiempo= 0.038480219	Primera=61440	Ultima=4
+schedule(dynamic) chunk(1)
+Tiempo= 0.037924551	Primera=61440	Ultima=4
+schedule(dynamic) chunk(64)
+Tiempo= 0.034598569	Primera=61440	Ultima=4
+schedule(guided) chunk(defecto)
+Tiempo= 0.036386421	Primera=61440	Ultima=4
+schedule(guided) chunk(1)
+Tiempo= 0.041688609	Primera=61440	Ultima=4
+schedule(guided) chunk(64)
+Tiempo= 0.037753926	Primera=61440	Ultima=4
